@@ -1,6 +1,5 @@
 import os
 
-
 #User name
 if not os.path.isfile("bin/data/UserName.cfg"):
     nome = input("Nome de Usuário: ")
