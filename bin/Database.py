@@ -1,5 +1,6 @@
 import pyrebase
 
+
 #Configuração do Firebase
 firebaseConfig = {
   apiKey: "api-key",
