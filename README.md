@@ -9,7 +9,7 @@ Pyrebase
 Chat Rápido, Simples e Seguro, feito para rodar no terminal usando Python + Firebase Database.
 
 ## Configuração Firebase
-Substitua seu firebaseConfig no [Database.py](bin/Database.py)
+Substitua sua [firebaseConfig](https://firebase.google.com/docs/web/setup?hl=pt-br) no [Database.py](bin/Database.py)
 ``` python
 firebaseConfig = {
   apiKey: "api-key",
