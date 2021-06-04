@@ -37,7 +37,7 @@ Execute no terminal ```python LOCAL_PYCHAT-CLI/Pychat.py```
 Primeiro arquivo a ser executado: Configura o nome de usuário (bin/data/UserName.cfg) e inicia o ChatBox.py e InputBox.py
 
 - ChatBox.py: <br>
-Segundo arquivo a ser executado: Envia e recebe mensagens e comandos específicos
+Segundo arquivo a ser executado: Enviar e receber mensagens e comandos específicos
 
 - InputBox.py: <br>
 Terceiro arquivo a ser executado: Caixa para digitar textos ¯\_(ツ)_/¯
